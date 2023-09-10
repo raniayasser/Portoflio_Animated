@@ -1,0 +1,88 @@
+[
+  {
+    "id": "react",
+    "title": "Netflix-Firebase",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/Netflix.png",
+    "link": "https://netflix-firebase-clone.vercel.app/"
+  },
+  {
+    "id": "react",
+    "title": "Portoflio Template ",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/porto.png",
+    "link": "https://portoflio-react.vercel.app"
+  },
+  {
+    "id": "react",
+    "title": "CV Website",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/cvpro.png",
+    "link": "https://cv-react-template.vercel.app/"
+  },
+
+  {
+    "id": "js",
+    "title": "E-Commerce Fashion",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/ecommerce.png",
+    "link": "https://e-commerce-fashion-khaki.vercel.app/"
+  },
+
+  {
+    "id": "js",
+    "title": "Fav Place website",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/favPlace.png",
+    "link": "https://fav-place-website.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "Day Website",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/Day.png",
+    "link": "https://day-ten.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "Watch Store",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/watchstore.png",
+    "link": "https://watchstorebootstrap.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "Facebook Clone",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/Facebookc.png",
+    "link": "https://facebook-clone-sandy-five.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "My Store",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/Shop store.png",
+    "link": "https://store-cloth-boot-strap.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "Shopping Store",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/ssstorre.png",
+    "link": "https://shopping-web-site-pure-html-css.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "Simple CV Template",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/CV1.png",
+    "link": "https://cv-peach-nu.vercel.app/"
+  },
+  {
+    "id": "hc",
+    "title": "Dliver Website",
+    "description": "Web Developement & Design ",
+    "img": "/projectsImages/driver.png",
+    "link": "https://vercel.com/raniayasser/deliver"
+  }
+]
